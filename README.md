@@ -21,3 +21,8 @@ Built a production-ready Streamlit app with:
 - Streamlit caching
 - Latency measurement
 - Secure, in-warehouse execution
+
+### Day 5 — LinkedIn Post Generator
+- Built an AI-powered content generator using Snowflake Cortex
+- Dynamic prompt engineering (tone, length, URL-based context)
+- Cached LLM calls for performance optimization
