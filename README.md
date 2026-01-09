@@ -26,3 +26,13 @@ Built a production-ready Streamlit app with:
 - Built an AI-powered content generator using Snowflake Cortex
 - Dynamic prompt engineering (tone, length, URL-based context)
 - Cached LLM calls for performance optimization
+
+### Day 6 — Status UI for Long-Running AI Tasks
+Enhanced the LinkedIn Post Generator with:
+- Real-time status updates
+- Clear AI task progress indicators
+- Improved user experience for long-running LLM calls
+
+This pattern mirrors production AI systems where inference latency
+must be communicated clearly to users.
+
