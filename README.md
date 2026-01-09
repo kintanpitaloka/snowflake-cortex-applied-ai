@@ -1,4 +1,3 @@
-# snowflake-cortex-applied-ai
 # Applied AI Insight Assistant with Snowflake Cortex
 
 This project demonstrates how to build an applied AI application using
