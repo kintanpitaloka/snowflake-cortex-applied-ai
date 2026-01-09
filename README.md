@@ -36,3 +36,10 @@ Enhanced the LinkedIn Post Generator with:
 This pattern mirrors production AI systems where inference latency
 must be communicated clearly to users.
 
+# Day 7 — Theming & Layout  
+Day 7 focuses on transforming a functional LLM-powered application into a
+polished, user-facing product through theming, layout, and UI structure.
+
+This milestone emphasizes **product readiness**, **user experience**, and
+**visual consistency**, building on the core AI functionality developed in
+previous days.
